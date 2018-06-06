@@ -76,7 +76,7 @@ ___
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 <!-- Video Embeded -->
-![Cello World](https://img.youtube.com/vi/kIaYUs-pZOY/0.jpg)](https://www.youtube.com/watch?v=kIaYUs-pZOY)
+[![Cello World](https://img.youtube.com/vi/kIaYUs-pZOY/0.jpg)](https://www.youtube.com/watch?v=kIaYUs-pZOY)
 
 
 <!-- === Github Markdown === -->
